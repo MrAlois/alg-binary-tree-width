@@ -2,4 +2,4 @@
 And algorhitm to compute the width of a binary tree
 
 
-![Screenshot](/Screenshot.PNG?raw=true "Gameplay")
+![Screenshot](/screenshot.PNG?raw=true "Gameplay")
